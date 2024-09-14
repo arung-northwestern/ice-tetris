@@ -1,5 +1,0 @@
-3. Save the tetris.py file to a directory on your computer.
-4. Open a terminal or command prompt and navigate to the directory where you saved the tetris.py file.
-5. Run the game by executing the following command:
-   ```bash
-python tetris.py
